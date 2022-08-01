@@ -2,10 +2,8 @@
 
 #### <p align="center">我是一个贵阳的前端程序员，因为对低代码的热爱，开源了自研的低代码项目</p>
 
-<!-- Gif -->
-<div align="center">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-</div>
+<!-- just img -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
