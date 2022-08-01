@@ -21,12 +21,10 @@
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
-<!-- ## 🔭 Goals of 2022 
+## 🔭 Goals
 
-- [x] 🏆500🌟 repo.（1000/500）
-- [x] 🏆Submit a PR to `Vite.js`.（1/1）   
-- [ ] 100 followers.（90/100）   
-- [ ] 10 sponsors.（8/10）     -->
+- [x] 🏆10K🌟 star.（3.1K/10K）   
+- [x] 100 followers.（700/2000）   
 
 <!-- ## 🧠 That I know and use
 
