@@ -14,17 +14,17 @@
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
-## 🔭 Goals of 2022 
+<!-- ## 🔭 Goals of 2022 
 
 - [x] 🏆500🌟 repo.（1000/500）
 - [x] 🏆Submit a PR to `Vite.js`.（1/1）   
 - [ ] 100 followers.（90/100）   
-- [ ] 10 sponsors.（8/10）    
+- [ ] 10 sponsors.（8/10）     -->
 
-## 🧠 That I know and use
+<!-- ## 🧠 That I know and use
 
 - <img align='center' src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=61DAFB"/> <img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>
-- <img align='center' src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
+- <img align='center' src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/> -->
 
 ## 📝 My GH stats
 
