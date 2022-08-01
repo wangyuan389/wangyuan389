@@ -17,14 +17,10 @@
 
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan389&repo=mall-cook)](https://github.com/wangyuan389/mall-cook)
 
-## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
-
 ## 🔭 Goals
 
 - [x] 🏆10K🌟 star.（3.1K/10K）   
-- [x] 100 followers.（700/2000）   
+- [x] 2000 followers.（700/2000）   
 
 <!-- ## 🧠 That I know and use
 
