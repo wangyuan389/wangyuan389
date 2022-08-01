@@ -8,7 +8,7 @@
 
 ## 🔧 My project
 
-[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan389&repo=mall-cook&theme=dark)](https://github.com/wangyuan389/mall-cook)
+[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan389&repo=mall-cook)](https://github.com/wangyuan389/mall-cook)
 
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
