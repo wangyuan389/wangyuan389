@@ -1,5 +1,11 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);自恨罗衣掩诗句，举头空羡榜中名&center=true&size=27">
+
+
 #### <p align="center">我是一个贵阳的前端程序员，因为对低代码的热爱，开源了自研的低代码项目</p>
+
+<!-- Gif -->
+<div align="center">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
