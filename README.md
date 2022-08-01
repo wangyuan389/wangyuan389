@@ -1,8 +1,7 @@
 ## 🎉 Hi!~
 
-#### <p align="center">I love my girl friend and coding,hhha!~</p>
+#### <p align="center">hhha!~</p>
 
-#### <p align="center">email: zhaodonghao586@outlook.com</p>
 
 ![TT](./TT.HEIC)
 <!-- <img src="./TT.HEIC" alt="app"/> -->
@@ -35,11 +34,5 @@
 
 ## 📝 My GH stats
 
-[![My GH stats](https://github-readme-stats.vercel.app/api?username=dohooo&theme=dark)](https://github.com/dohooo)
-
-## 🫡 My Sponsors
-
-<p align="center">
-  <img src='https://github.com/dohooo/sponsors/blob/master/sponsors.png?raw=true'/>
-</p>
+[![My GH stats](https://github-readme-stats.vercel.app/api?username=wangyuan389&theme=dark)](https://github.com/wangyuan389)
 
