@@ -25,7 +25,7 @@
 <!-- ## 🧠 That I know and use
 
 - <img align='center' src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=61DAFB"/> <img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>
-- <img align='center' src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/> -->
+- <img align='center' src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/> --> 
 
 ## 📝 My GH stats
 
