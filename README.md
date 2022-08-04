@@ -3,7 +3,7 @@
 #### <p align="center">我是一个贵阳的前端程序员，因为对低代码的热爱，开源了自研的低代码项目</p>
 #### <p align="center">Mall-Cook 是用于可视化构建商城的 sass 低代码平台</p>
 #### <p align="center">现在正在开发类似搞定设计的活动页搭建平台</p>
-#### <p align="center">未来计划探索类似轻流一样的后台低代码搭建</p>
+#### <p align="center">未来计划探索类似轻流一样的后台低代码搭建</p> 
 
 
 <!-- just img -->
