@@ -26,5 +26,5 @@
 
 ## 📝 My GH stats
 
-[![My GH stats](https://github-readme-stats.vercel.app/api?username=wangyuan389&theme=dark)](https://github.com/wangyuan389) 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyuan389&count_private=true&show_icons=true" />
 
