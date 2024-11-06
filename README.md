@@ -7,24 +7,19 @@
   <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />  
 </p>
 
-## 🔧 My project
+## 📝 My GH stats
 
-[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan389&repo=mall-cook)](https://github.com/wangyuan389/mall-cook)
-
-[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan389&repo=yunda)](https://github.com/wangyuan389/yunda)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyuan389&count_private=true&show_icons=true" />
 
 ## 🔭 Goals
 
-- [x] 🏆10K🌟 star.（4.6K/10K）   
-- [x] 2000 followers.（1000/2000）   
+- [x] 🏆10K🌟 star.（5.1K/10K）   
+- [x] 2000 followers.（1200/2000）   
 
 <!-- ## 🧠 That I know and use
 
 - <img align='center' src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=61DAFB"/> <img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>
 - <img align='center' src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/> -->  
 
-## 📝 My GH stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyuan389&count_private=true&show_icons=true" />
 
