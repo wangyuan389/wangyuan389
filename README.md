@@ -1,7 +1,8 @@
 
 
-#### <p align="center">我是一个贵阳的前端程序员，因为对低代码的热爱，开源了自研的低代码项目</p>
-#### <p align="center">Mall-Cook 是用于可视化构建商城的 sass 低代码平台</p>  
+#### <p align="center">一去数年，我在低代码的道路上独自求索，构建自己的理想国</p>
+#### <p align="center">Mall-Cook 科技，不应该高高在上，应该服务于每一个人</p>  
+#### <p align="center">Mall-Cook 希望云搭能云搭万物，触手可及！</p>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />  
