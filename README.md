@@ -2,7 +2,6 @@
 
 #### <p align="center">一去数年，我在低代码的道路上独自求索，构建自己的理想国</p>
 #### <p align="center">科技，不应该高高在上，应该服务于每一个人</p>  
-#### <p align="center">希望云搭能云搭万物，触手可及！</p>  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />  
