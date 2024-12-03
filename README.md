@@ -13,7 +13,7 @@
 
 ## 🔭 Goals
 
-- [x] 🏆10K🌟 star.（5.1K/10K）   
+- [x] 🏆10K🌟 star.（5.8K/10K）   
 - [x] 2000 followers.（1200/2000）   
 
 <!-- ## 🧠 That I know and use
